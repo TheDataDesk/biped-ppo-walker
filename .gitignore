@@ -1,0 +1,19 @@
+# Virtual env
+.venvi/
+
+# Bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Jupyter/Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# System files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Misc
+*.log
